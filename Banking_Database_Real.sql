@@ -1,7 +1,6 @@
 create database Banking_DB;
 use Banking_DB;
 CREATE TABLE Customers
-(
     CustomerID INT,
     FirstName VARCHAR(50),
     LastName VARCHAR(50),
